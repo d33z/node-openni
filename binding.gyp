@@ -13,7 +13,7 @@
         ['OS=="mac"', {
             'link_settings': {
                 'libraries': [
-                    'libOpenNI.dylib'
+                    '/usr/local/lib/libOpenNI.dylib'
                 ],
             }
           }
